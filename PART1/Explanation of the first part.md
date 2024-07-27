@@ -14,8 +14,8 @@ This project focuses on training a model to recognize clothing items and their c
 ![Train Model](https://miro.medium.com/v2/resize:fit:1120/1*-5wlIFa3hdo-omU4EwZXdA.png)
 
 ### <span style="color:orange">Model Architecture</span>
-1. **Model Architecture**: Utilize architectures such as modified VGG16 for training. Configure the neural network layers and set up the model to ensure effective learning and prediction capabilities.
-![Model Architecture](https://www.researchgate.net/profile/Daegyun-Choi/publication/350828239/figure/fig1/AS:1017585780924416@1619622764106/Architecture-of-the-modified-VGG16-model.ppm)
+1. **Model Architecture**: Utilize architectures such as VGG16 for training. Configure the neural network layers and set up the model to ensure effective learning and prediction capabilities.
+![Model Architecture](https://neurohive.io/wp-content/uploads/2018/11/vgg16-1-e1542731207177.png)
 
 ## <span style="color:green">2. Apply Different Metrics</span>
 
@@ -34,5 +34,4 @@ This project focuses on training a model to recognize clothing items and their c
 ### <span style="color:orange">Use Interpretation Tools</span>
 1. **Model Interpretation**: Employ interpretation tools such as Grad-CAM or SHAP to visualize and understand the model’s decision-making process. These tools help in identifying which parts of the image influence the model’s predictions.
 ![Model Interpretation](https://learnopencv.com/wp-content/uploads/2023/12/GradCAM-architecture.png)
-
 
