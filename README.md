@@ -1,15 +1,3 @@
-To ensure a clean and visually appealing presentation, follow these steps to format and resize the images:
-
-1. **Resize Images**: Ensure all images have the same dimensions. You can use an image editor or a script to resize them to a common size. A standard size like 400x400 pixels often works well for presentation purposes.
-
-2. **Arrange Images**: Position images in a grid or a single row, depending on how many you have and the layout you prefer.
-
-3. **Align Text and Links**: Make sure that text and links are aligned properly with the images for a cohesive look.
-
-Here’s an example of how you might format the content with resized images and consistent layout:
-
----
-
 ## Project Overview
 
 This repository contains two main branches, each focusing on different aspects of the project. The branches are:
