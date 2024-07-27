@@ -30,7 +30,7 @@ This project involves preprocessing a playing cards dataset, training a model, a
 
 ### <span style="color:orange">Train YOLO Model with Custom Dataset</span>
 1. **Train Model**: Use the YOLO framework to train the model with the custom playing cards dataset. This involves specifying training parameters such as image size, batch size, number of epochs, and the path to the dataset configuration file. The training process will iteratively improve the model's accuracy in recognizing and classifying playing cards.
-![Train YOLO Model](https://deeplobe.ai/wp-content/uploads/2023/06/Object-detection-Real-world-applications-and-benefits.png)
+![Train YOLO Model]
 
 ## <span style="color:green">3. Perform Object Detection on Uploaded Image Using YOLO</span>
 
