@@ -10,33 +10,16 @@ This repository contains two main branches, each focusing on different aspects o
 
 **Dataset Link**: [Apparel Images Dataset](#)
 
-### Tasks
-
-1. **Training the Dataset**:
-    - Load and preprocess the dataset.
-    - Train a model to detect each item of clothing and its color using techniques such as transfer learning or building a custom CNN.
-
-2. **Apply Different Metrics**:
-    - Evaluate the model using various metrics like accuracy, precision, recall, F1-score, and confusion matrix.
-
-3. **Build an Inference System**:
-    - Develop an inference pipeline that takes an input image and outputs the detected item name and its color.
-
-4. **Model Interpretation**:
-    - Use model interpretation tools such as Grad-CAM or SHAP to visualize and understand the model's decision-making process.
 
 ## Part 2: Playing Cards Dataset
 
 **Dataset Link**: [Playing Cards Dataset](#)
 
-### Tasks
+# resources and references
+1- **ultralytics** : https://docs.ultralytics.com/ https://pbs.twimg.com/profile_images/1612780295010369536/FUiBp8Ci_400x400.jpg
+2- **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**  https://m.media-amazon.com/images/I/71UF9mDAX3L._SL1317_.jpg
+3- **Programming Computer Vision with Python: Tools and algorithms for analyzing images**  https://m.media-amazon.com/images/I/71i7RZM8pML._SL1500_.jpg
 
-1. **Preprocess the Dataset**:
-    - Perform data preprocessing tasks such as resizing and changing the dataset format (YOLO, COCO, etc.) manually (without using Roboflow).
 
-2. **Train the Model**:
-    - Develop a model that can recognize and classify playing cards.
 
-3. **Build an Inference System**:
-    - Provide an option to plot the output based on user preference.
 
