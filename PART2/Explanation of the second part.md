@@ -1,4 +1,3 @@
-
 # <span style="color:blue">Playing Cards Dataset Project</span>
 
 This project involves preprocessing a playing cards dataset, training a model, and building an inference system to recognize cards in images. Below are the detailed steps and instructions for each part of the project.
